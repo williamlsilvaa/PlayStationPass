@@ -1,1 +1,1 @@
-
+Como um fã de PlayStation, desenvolvi uma home bem simples, com o maior pedido dos fãs: um serviço de assinatura no estilo Xbox Game Pass com os jogos da Sony Interactive Entretainment.
